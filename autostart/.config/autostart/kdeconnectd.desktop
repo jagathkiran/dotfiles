@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=KDE Connect Daemon
-Exec=/usr/bin/kdeconnectd
-Hidden=true
-NoDisplay=true
-X-GNOME-Autostart-enabled=true
