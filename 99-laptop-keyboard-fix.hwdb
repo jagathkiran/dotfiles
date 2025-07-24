@@ -1,0 +1,11 @@
+evdev:input:b0011*v0001*p0001*
+ KEYBOARD_KEY_cf=reserved
+ KEYBOARD_KEY_d1=reserved
+ KEYBOARD_KEY_d2=reserved
+ KEYBOARD_KEY_c7=reserved
+ KEYBOARD_KEY_d3=reserved
+ KEYBOARD_KEY_c9=reserved
+ KEYBOARD_KEY_cb=reserved
+ KEYBOARD_KEY_cd=reserved
+ KEYBOARD_KEY_c8=reserved
+ KEYBOARD_KEY_d0=reserved
