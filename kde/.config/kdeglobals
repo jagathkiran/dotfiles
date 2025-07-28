@@ -34,3 +34,6 @@ MaximumRemoteSize=0
 
 [WM]
 activeFont=Roboto,11,-1,5,50,0,0,0,0,0
+
+[Icons]
+Theme=breeze-dark
