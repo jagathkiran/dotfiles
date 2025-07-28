@@ -9,3 +9,4 @@ evdev:input:b0011*v0001*p0001*
  KEYBOARD_KEY_cd=reserved
  KEYBOARD_KEY_c8=reserved
  KEYBOARD_KEY_d0=reserved
+ KEYBOARD_KEY_cf=reserved
