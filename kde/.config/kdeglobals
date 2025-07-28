@@ -1,3 +1,10 @@
+[General]
+fixed=Roboto,11,-1,5,50,0,0,0,0,0
+font=Roboto,11,-1,5,50,0,0,0,0,0
+menuFont=Roboto,11,-1,5,50,0,0,0,0,0
+smallestReadableFont=Roboto,10,-1,5,50,0,0,0,0,0
+toolBarFont=Roboto,11,-1,5,50,0,0,0,0,0
+
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
@@ -18,12 +25,12 @@ Sort reversed=false
 Speedbar Width=165
 View Style=DetailTree
 
-[General]
-font=Roboto,11,-1,5,50,0,0,0,0,0
-fixed=Roboto,11,-1,5,50,0,0,0,0,0
-menuFont=Roboto,11,-1,5,50,0,0,0,0,0
-smallestReadableFont=Roboto,10,-1,5,50,0,0,0,0,0
-toolBarFont=Roboto,11,-1,5,50,0,0,0,0,0
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
 
 [WM]
 activeFont=Roboto,11,-1,5,50,0,0,0,0,0
