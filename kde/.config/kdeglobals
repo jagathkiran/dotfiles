@@ -5,6 +5,9 @@ menuFont=Roboto,11,-1,5,50,0,0,0,0,0
 smallestReadableFont=Roboto,10,-1,5,50,0,0,0,0,0
 toolBarFont=Roboto,11,-1,5,50,0,0,0,0,0
 
+[Icons]
+Theme=breeze-dark
+
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
@@ -34,6 +37,3 @@ MaximumRemoteSize=0
 
 [WM]
 activeFont=Roboto,11,-1,5,50,0,0,0,0,0
-
-[Icons]
-Theme=breeze-dark

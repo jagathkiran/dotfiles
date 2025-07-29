@@ -2,10 +2,11 @@
 PreviewSize=16
 
 [General]
+GlobalViewProps=true
 ModifiedStartupSettings=true
 Version=202
 ViewPropsTimestamp=2025,7,9,15,6,4.557
-GlobalViewProps=true
+
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=22
@@ -15,6 +16,3 @@ MenuBar=Disabled
 
 [PreviewSettings]
 Plugins=svgthumbnail,windowsexethumbnail,exrthumbnail,jpegthumbnail,kraorathumbnail,windowsimagethumbnail,cursorthumbnail,appimagethumbnail,directorythumbnail,djvuthumbnail,comicbookthumbnail,ebookthumbnail,imagethumbnail,opendocumentthumbnail,audiothumbnail,gdk-pixbuf-thumbnailer
-
-[Search]
-Location=Everywhere

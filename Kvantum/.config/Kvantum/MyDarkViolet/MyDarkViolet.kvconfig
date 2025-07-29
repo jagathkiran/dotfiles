@@ -1,5 +1,5 @@
 [%General]
-author=Vince Liuice (colors modified by Gemini)
+author=Jagath Kiran
 comment=A dark, translucent theme inspired by Flat-Remix-GTK-Violet-Darkest
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
@@ -99,8 +99,8 @@ progress.indicator.text.color=#eff0f1
 
 [Hacks]
 transparent_ktitle_label=false
-transparent_dolphin_view=false
-transparent_pcmanfm_sidepane=false
+transparent_dolphin_view=true
+transparent_pcmanfm_sidepane=true
 blur_translucent=true
 transparent_menutitle=false
 respect_darkness=true
@@ -121,7 +121,7 @@ opaque_colors=false
 kinetic_scrolling=false
 scroll_jump_workaround=true
 centered_forms=false
-noninteger_translucency=false
+noninteger_translucency=true
 blur_only_active_window=false
 style_vertical_toolbars=false
 
@@ -132,8 +132,8 @@ frame.top=6
 frame.bottom=6
 frame.left=6
 frame.right=6
-interior=true
-interior.element=button
+interior=false
+interior.element=window
 indicator.size=8
 text.normal.color=#eff0f1
 text.focus.color=#ffffff
