@@ -29,7 +29,6 @@ if [ -f ~/.bash_aliases ]; then
 fi
 
 eval "$(starship init bash)" # Starship
-. "$HOME/.cargo/env"
 # export PATH="~/anaconda3/bin:$PATH"  # commented out by conda initialize
 
 # >>> conda initialize >>>
@@ -52,3 +51,4 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion" # This loads nvm bash_completion
 export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
 export PATH="$HOME/.avm/bin:$PATH"
+. "$HOME/.cargo/env"
