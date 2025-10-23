@@ -1,4 +1,1 @@
-*.d
-random_seed
-sshcontrol
-trustdb.gpg
+*-lock.json

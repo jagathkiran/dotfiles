@@ -5,3 +5,4 @@ alias lg='lazygit'
 alias mkdir='mkdir -p'
 alias ..='cd ..'
 alias -- -='cd -'
+alias btw="fastfetch"
