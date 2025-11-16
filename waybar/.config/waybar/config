@@ -60,7 +60,16 @@
         "spacing": 10
     },
 	"clock": {
-		"tooltip-format": "{calendar}",
+		"tooltip-format": "<span>{calendar}</span>",
+		"calendar": {
+			"mode": "month",
+			"format": {
+				"months": "<span color='#ffb4ab'><b>{}</b></span>",
+				"days": "<span color='#cdd6f4'><b>{}</b></span>",
+				"weekdays": "<span color='#a6e3a1'><b>{}</b></span>",
+				"today": "<span color='#f9e2af'><b><u>{}</u></b></span>"
+			}
+		},
 		"format-alt": "{:%A, %d %B %Y │ %H:%M:%S}",
 		"format": "{:%d/%m │ %H:%M}",
 		"interval": 1
