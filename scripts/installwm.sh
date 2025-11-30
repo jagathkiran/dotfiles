@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
-
 # install dm and wm
 pacman -S xorg wayland sddm hyprland kitty
 

@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
-
 # get the diskname that you want to use (fdisk -l)
 #
 # open fdisk for that disk (fdisk /dev/sdX)
