@@ -6,6 +6,7 @@ return {
       -- Your table of languages
       local four_space = {
         "cpp",
+        "cc",
         "c",
         "javascript",
         "typescript",
