@@ -18,6 +18,7 @@ return {
           vim.api.nvim_feedkeys(vim.api.nvim_replace_termcodes("<S-Tab>", true, false, true), "n", false) -- Default <S-Tab> behavior
         end,
       },
+      ["<C-Space>"] = { "show" },
       ["<C-e>"] = { "cancel" }, -- Close the completion menu
     })
     return opts

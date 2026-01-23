@@ -23,10 +23,16 @@ return {
       formatters_by_ft = {
         c = { "clang-format" },
         cpp = { "clang-format" },
+        javascript = { "prettier" },
+        javascriptreact = { "prettier" },
+        json = { "prettier" },
       },
       formatters = {
         ["clang-format"] = {
           prepend_args = { "--style={BasedOnStyle: LLVM, IndentWidth: 4, TabWidth: 4, UseTab: Always}" },
+        },
+        prettier = {
+          prepend_args = { "--tab-width=4", "--use-tabs" },
         },
       },
     },
